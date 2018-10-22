@@ -10,6 +10,7 @@
   },
   "homepage": "https://github.com/jevets/eleventy-tailwindcss-gulp-starter",
   "scripts": {
+    "start": "gulp watch",
     "dev": "",
     "build": ""
   },

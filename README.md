@@ -22,7 +22,9 @@ Clone the repo, then run `yarn` or `npm install`.
 
 ## Dev watch / server
 
-One command will watch all your files and run a local development server on port 8000 (default for [`gulp-webserver`](https://www.npmjs.com/package/gulp-webserver)).
+`yarn start` or `npm start`
+
+This command will watch all your files and run a local development server on port 8000 (default for [`gulp-webserver`](https://www.npmjs.com/package/gulp-webserver)).
 
 ## CSS
 
@@ -43,5 +45,5 @@ TBD
 
 TBD
 
-- [] Babel
-- [] Uglify for production
+- [ ] Babel
+- [ ] Uglify for production

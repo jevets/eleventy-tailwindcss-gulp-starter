@@ -1,5 +1,6 @@
 const gulp = require('gulp')
 const postcss = require('gulp-postcss')
+const watch = require('gulp-watch')
 
 // Default task builds for production
 gulp.task('default', () => {
@@ -8,4 +9,8 @@ gulp.task('default', () => {
       require('tailwindcss')('./tailwind.js'),
       require('autoprefixer'),
     ]))
+})
+
+gulp.task('watch', () => {
+  // TODO
 })
