@@ -1,4 +1,6 @@
-# eleventy-tailwindcss-gulp-starter
+# Eleventy Starter w/ TailwindCSS and Gulp
+
+**This is a new starter; you probably don't wanna use it yet.**
 
 A starter project for static site generated with [@11ty/eleventy](https://11ty.io/) using [TailwindCSS](https://tailwindcss.com/) and [gulp](https://gulpjs.com/) tasks.
 
