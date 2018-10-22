@@ -1,0 +1,24 @@
+{
+  "name": "eleventy-tailwindcss-gulp-starter",
+  "description": "A starter project for 11ty, tailwindcss, and gulp",
+  "keywords": [
+    "eleventy", "11ty", "tailwindcss", "gulp", "static site generator", "ssg"
+  ],
+  "author": {
+    "name": "Steve Jamesson",
+    "url": "https://github.com/jevets"
+  },
+  "homepage": "https://github.com/jevets/eleventy-tailwindcss-gulp-starter",
+  "scripts": {
+    "dev": "",
+    "build": ""
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^0.5.4",
+    "autoprefixer": "^9.2.1",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^8.0.0",
+    "gulp-purgecss": "^1.1.1",
+    "tailwindcss": "^0.6.6"
+  }
+}
